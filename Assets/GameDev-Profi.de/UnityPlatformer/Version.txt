@@ -1,0 +1,18 @@
+Die Version des Resourcenpakets ist: 
+
+Version 5 - 24.08.2019
+- statische Modelle enthalten jetzt UV-Koordinaten, um Lightmapping-Fehler in einigen Unity-Versionen zu umgehen. 
+
+_____________________________________________________________
+
+Frühere Updates: 
+
+Version 4 - 05.04.2018
+ - Keycard-Sprites für Inventory-Inhalte ergänzt
+
+Version 3 - 02.04.2018
+ - Sprung-Pose des PlatformerDude+Rig.fbx so geändert, dass das Modell in den Animationen FallingIdle und FallingToLanding keinen Offset mehr hat, sondern am Nullpunkt steht. Dadurch wirkt das erneute Abspringen vom Boden beim Halten der Sprungtaste etwas realistischer.
+
+Version 2 - 27.02.2018
+ - Codierung der XML.cs korrigiert, so dass sie keine "Unterschiedliche Zeilenumbrüche"-Warnung mehr erzeugt.
+   (Siehe https://www.udemy.com/csharp-gamedev/learn/v4/questions/3785752)

@@ -1,0 +1,7 @@
+.idea/
+Assembly-CSharp.csproj
+Logs/
+Library/
+Temp/
+UnityPlatformer.sln
+obj/
